@@ -13,7 +13,7 @@ st.markdown("""
 .stApp {
     background-color: #121212;     /* black background */
 }
-h1 {   
+h2 {   
     color: #3F7BD6 !important;     \* purple title color */
     font-weight: 700;
     font-size: 36px;
